@@ -1,0 +1,55 @@
+model workflow mq
+refer model workflow
+ontolog process metamodel
+intern workflow mq
+model workflow
+busi process metamodel
+refer model bpel
+choreographi interfac descript
+extern busi process
+model bpel
+ibm webspher mq
+ontolog process
+intern workflow
+choreographi arbitrari
+choreographi interfac
+workflow mq
+refer model
+process metamodel
+busi process
+choreographi domain
+intern arbitrari
+initi valid
+webspher mq
+model
+interfac descript
+ibm webspher
+multi metamodel
+extern busi
+abstract bpel
+workflow
+choreographi
+process
+ontolog
+arbitrari
+interfac
+paper
+m3po
+variou
+languag
+extract
+initi
+valid
+webspher
+intern
+metamodel
+busi
+bpel
+mq
+descript
+ibm
+multi
+extern
+abstract
+domain
+refer

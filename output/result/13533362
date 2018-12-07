@@ -1,0 +1,96 @@
+spatio-tempor model gamma-poisson
+spatio-tempor model per-loc
+spatio-tempor model assumpt
+spatio-tempor model
+articl ctr first-view
+model gamma-poisson
+scale simul experi
+larg scale simul
+model per-loc
+model assumpt
+user-specif repeat-exposur featur
+fix locat correl
+dynam linear regress
+articl ctr
+model
+data exploratori
+scale simul
+articl first
+articl exposur
+fix locat
+locat correl
+dynam linear
+data analysi
+user-specif repeat-exposur
+repeat-exposur featur
+ctr first-view
+modul today
+simul experi
+larg scale
+click-through rate
+content recommend
+user fatigu
+exponenti tilt
+front page
+signific improv
+baselin method
+differ scenario
+encourag result
+dynam gamma-poisson
+rigor exploratori
+linear regress
+spatio-tempor novel
+articl
+locat
+data
+ctr
+repeat-exposur
+modul
+simul
+scale
+dynam
+spatio-tempor
+exploratori
+linear
+click-through
+rate
+context
+content
+recommend
+time
+inform
+user
+fatigu
+exponenti
+tilt
+probabl
+approach
+yahoo
+front
+page
+signific
+improv
+baselin
+method
+perform
+differ
+scenario
+encourag
+result
+user-specif
+featur
+today
+experi
+larg
+gamma-poisson
+rigor
+fix
+correl
+analysi
+regress
+first-view
+first
+exposur
+novel
+per-loc
+assumpt

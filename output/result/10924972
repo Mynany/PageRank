@@ -1,0 +1,110 @@
+matrix transit person
+factor matrix transit
+mc model fpmc
+matrix transit graph
+matrix transit cube
+mc model paramet
+factor model fpmc
+transit person bayesian
+transit person rank
+factor model paramet
+factor matrix common
+interact model fpmc
+mc model
+pairwis interact model
+mc person bayesian
+mc person rank
+matrix transit
+interact model paramet
+factor matrix normal
+factor model
+transit person
+sequenti basket data
+next-basket recommend system
+next action recent
+mc person
+factor matrix
+mc method
+interact model
+model fpmc
+model paramet
+transit graph
+transit cube
+sequenti basket
+matrix common
+markov chain
+next-basket recommend
+next action
+recommend system
+action recent
+sequenti behavior
+matrix normal
+mf method
+model
+mc unperson
+person bayesian
+person rank
+import compon
+mani websit
+gener tast
+user-item prefer
+special case
+tucker decomposit
+popular approach
+basket data
+transit
+markov common
+matrix
+mc
+pairwis interact
+person
+recommend
+action
+method
+sequenti
+factor
+markov
+approach
+basket
+chain
+import
+compon
+mani
+websit
+gener
+tast
+user
+user-item
+prefer
+hand
+item
+paper
+total
+observ
+limit
+special
+case
+tucker
+decomposit
+adapt
+bpr
+framework
+interact
+popular
+data
+next-basket
+next
+system
+recent
+behavior
+graph
+cube
+fpmc
+mf
+common
+pairwis
+bayesian
+rank
+unperson
+paramet
+normal
